@@ -1,4 +1,5 @@
 :toc:
+:numbered:
 :toc-placement!:
 
 Here is my preamble paragraph, but I could really place the TOC anywhere! Lorem ipsum foo bar baz.
@@ -7,7 +8,6 @@ toc::[]
 
 = TOC Test
 
-:numbered:
 
 text
 text
